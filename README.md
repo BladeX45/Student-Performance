@@ -28,7 +28,7 @@ Dalam proyek ini, kita akan: ✔ Menganalisis hubungan antara kebiasaan belajar 
 - Clone repository inigit clone https://github.com/USERNAME/student-performance-analysis.git
 cd student-performance-analysis
 
-- Install dependensipip install pandas matplotlib seaborn scikit-learn
+- Install dependensi pip install pandas matplotlib seaborn scikit-learn
 
 - Jalankan Jupyter Notebookjupyter notebook
 
